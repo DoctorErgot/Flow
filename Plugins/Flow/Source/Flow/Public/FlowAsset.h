@@ -10,6 +10,7 @@ class UFlowNode_SubGraph;
 class UFlowSubsystem;
 
 class UEdGraph;
+class UEdGraphNode;
 class UFlowAsset;
 
 #if WITH_EDITOR
