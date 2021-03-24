@@ -9,9 +9,9 @@ Flow plug-in for Unreal Engine provides a graph editor tailored for scripting fl
 Many people asked to move plugin to the repository that would only contain the Flow plugin itself.
 I did exactly that. Moved the plugin with entire history of changes, roadmap, issue and wiki.
 
-[FlowGraph repository](https://github.com/MothCocoon/FlowGraph)
+New repository: [FlowGraph](https://github.com/MothCocoon/FlowGraph)
 
-This repository won't be updated anymore.
+The old repository (which you're looking at) won't be updated anymore.
 Initially I considered the idea of using git submodules. This repo would include Flow plugin + example content... However, I discovered that I'm making practically zero changes to the example project. I won't find time to update samples in the current form. 
 And git submodules are tricky, it's not like the old repo would be automatically updated... People would need to call additional commands to update plugin there... which would be counter-productive, because the example project itself doesn't change between plugin releases.
 
