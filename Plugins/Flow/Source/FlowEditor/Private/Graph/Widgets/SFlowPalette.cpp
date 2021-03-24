@@ -7,13 +7,14 @@
 #include "Nodes/FlowNode.h"
 
 #include "EditorStyleSet.h"
+#include "Fonts/SlateFontInfo.h"
 #include "Styling/CoreStyle.h"
 #include "Styling/SlateBrush.h"
 #include "Styling/SlateColor.h"
-#include "Widgets/Input/STextBlock.h"
 #include "Widgets/Input/STextComboBox.h"
 #include "Widgets/Layout/SBorder.h"
 #include "Widgets/SBoxPanel.h"
+#include "Widgets/Text/STextBlock.h"
 
 #define LOCTEXT_NAMESPACE "FlowGraphPalette"
 
