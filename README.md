@@ -9,8 +9,8 @@ Flow plug-in for Unreal Engine provides a graph editor tailored for scripting fl
 Many people asked to move plugin to the repository that would only contain the Flow plugin itself.
 I did exactly that. Moved the plugin with entire history of changes, roadmap, issue and wiki.
 
-New repository including only the Flow plugin: [FlowGraph](https://github.com/MothCocoon/FlowGraph)
-The second repository where I gonna put sample modues containting quest or dialogue systems: [FlowSamples](https://github.com/MothCocoon/FlowSamples)
+* New repository including only the Flow plugin: [FlowGraph](https://github.com/MothCocoon/FlowGraph)
+* The second repository where I gonna put sample modues containting quest or dialogue systems: [FlowSamples](https://github.com/MothCocoon/FlowSamples)
 
 The old repository (which you're looking at) won't be updated anymore.
 I'm still planning on creating zip with example project (using the latest engine release) while releasing the new version of the plugin. So it would help out people evaluating the plugin!
