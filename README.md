@@ -4,7 +4,7 @@ Flow plug-in for Unreal Engine provides a graph editor tailored for scripting fl
 
 ![Flow101](https://user-images.githubusercontent.com/5065057/103543817-6d924080-4e9f-11eb-87d9-15ab092c3875.png)
 
-# Development moved to the FlowGraph repository
+# Plugin moved to the FlowGraph repository
 Many people asked to move plugin to the repository that would only contain the Flow plugin itself.
 I did exactly that. Moved the plugin with entire history of changes, roadmap, issue and wiki.
 
